@@ -6,7 +6,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 const provider = new HDWalletProvider(
     'beauty brass afford slush milk autumn robust pole recipe word disease crunch',
     // remember to change this to your own phrase!
-    'https://sepolia.infura.io/v3/021c42a485114ee3b84c866e1a11caaa'
+    'https://sepolia.infura.io/v3/64763a7f90034408bb041b6514f0f5ac'
     // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
